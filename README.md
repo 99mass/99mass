@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sambadiop161&color=blue&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=99mass&color=blue&style=for-the-badge" alt="Profile views"/>
 </div>
 
 ---
@@ -80,12 +80,12 @@ const samba = {
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sambadiop161&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sambadiop161&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=99mass&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=99mass&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambadiop161&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=99mass&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -93,7 +93,7 @@ const samba = {
 ## 🏆 Trophées GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sambadiop161&theme=radical&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=99mass&theme=radical&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -101,7 +101,7 @@ const samba = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sambadiop161&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=99mass&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -173,7 +173,7 @@ const samba = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sambadiop161/sambadiop161/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/99mass/99mass/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -188,5 +188,5 @@ const samba = {
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sambadiop161&icon=2&color=3" alt="Visit Count" />
+  <img src="https://visitcount.itsvg.in/api?id=99mass&icon=2&color=3" alt="Visit Count" />
 </div>
