@@ -1,42 +1,39 @@
-# <img src="https://raw.githubusercontent.com/nixin72/leet-code-discord-bot/master/assets/assets/wave.gif" width="30px"> Salut ! Je suis Samba Diop
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=99mass&color=0e75b6&style=flat"/>
-  <img src="https://img.shields.io/github/followers/99mass?logo=github&style=flat&color=0e75b6&labelColor=1c1917"/>
-</p>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=%F0%9F%9A%80+Hello!+I'm+Samba+Diop)](https://git.io/typing-svg)
 
 ---
 
-## 🌟 À Propos de Moi
+## 🌟 About Me
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="280" alt="Coding gif"/>
 
+I'm a passionate Full-Stack Developer from Senegal 🇸🇳, dedicated to crafting innovative digital solutions. With a strong foundation in both web and mobile development, I love transforming complex ideas into elegant, user-friendly applications. My journey began in 2023, and since then, I've been continuously learning and building projects that make a difference.
+
 ```javascript
 const samba = {
-    nom: "Samba Diop",
-    poste: "Full-Stack Developer",
-    lieu: "Dakar, Sénégal 🇸🇳",
+    name: "Samba Diop",
+    role: "Full-Stack Developer",
+    location: "Dakar, Senegal 🇸🇳",
     specialties: {
         web: ["React", "Angular", "Vue.js", "Next.js"],
         mobile: ["Flutter", "Kotlin"],
         backend: ["Java Spring Boot", "Node.js", "Go", "Rust"],
         database: ["MySQL", "MongoDB", "PostgreSQL"]
     },
-    experience: "2023 - Présent",
+    experience: "2023 - Present",
     motto: "Code with passion, build with purpose! 💻✨"
 };
 ```
 
-### 🎯 Mon Expertise
-- 🖥️ **Développement Web Frontend** : React, Angular, Vue.js, Next.js
-- 📱 **Applications Mobile** : Flutter & Kotlin
-- ⚙️ **Backend & APIs** : Java Spring Boot, Node.js, Express
-- 🗄️ **Bases de Données** : MySQL, MongoDB, PostgreSQL
-- 🛠️ **DevOps & Tools** : Docker, Git, GitHub, VS Code
+### 🎯 My Expertise
+- 🖥️ **Frontend Web Development**: React, Angular, Vue.js, Next.js
+- 📱 **Mobile Applications**: Flutter & Kotlin
+- ⚙️ **Backend & APIs**: Java Spring Boot, Node.js, Express
+- 🗄️ **Databases**: MySQL, MongoDB, PostgreSQL
+- 🛠️ **DevOps & Tools**: Docker, Git, GitHub, VS Code
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -75,7 +72,7 @@ const samba = {
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=99mass&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -88,7 +85,7 @@ const samba = {
 
 ---
 
-## 🏆 Trophées GitHub
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=99mass&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
@@ -96,7 +93,7 @@ const samba = {
 
 ---
 
-## 📈 Graphique de Contribution
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=99mass&theme=tokyo-night&bg_color=1a1b27&hide_border=true" width="100%" alt="Contribution Graph"/>
@@ -104,21 +101,21 @@ const samba = {
 
 ---
 
-## 💼 Expérience Professionnelle
+## 💼 Professional Experience
 
 <div align="center">
 <table>
 <tr>
 <td align="center" style="border: none;">
 <h3>🏢 Zone01 Dakar</h3>
-<p><strong>Full-Stack Developer</strong> | 2023 - Présent</p>
+<p><strong>Full-Stack Developer</strong> | 2023 - Present</p>
 <br>
 <p align="left">
-✅ Développement d'applications web avec React, Angular et Next.js<br>
-✅ Création d'applications mobiles avec Flutter<br>
-✅ APIs REST avec Java Spring Boot et Node.js<br>
-✅ Méthodologie Agile et travail en équipe<br>
-✅ Solutions complètes et évolutives
+✅ Developing dynamic web applications with React, Angular and Next.js<br>
+✅ Building mobile applications with Flutter<br>
+✅ Creating REST APIs with Java Spring Boot and Node.js<br>
+✅ Working with Agile methodology and teamwork<br>
+✅ Delivering complete and scalable solutions
 </p>
 </td>
 </tr>
@@ -127,20 +124,20 @@ const samba = {
 
 ---
 
-## 🎓 Formation & Certifications
+## 🎓 Education & Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/UN--CHK-Licence_Informatique-4CAF50?style=for-the-badge&logo=graduation-cap" />
-  <img src="https://img.shields.io/badge/FORCE--N-Certification_Java-FF9800?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Lycée_SLL-Bac_S2-2196F3?style=for-the-badge&logo=school" />
+  <img src="https://img.shields.io/badge/UN--CHK-Computer_Science_Degree-4CAF50?style=for-the-badge&logo=graduation-cap" />
+  <img src="https://img.shields.io/badge/FORCE--N-Java_Development_Certification-FF9800?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Lycée_SLL-Science_Baccalaureate-2196F3?style=for-the-badge&logo=school" />
 </div>
 
 ---
 
-## 🌍 Langues
+## 🌍 Languages
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🇫🇷_Français-Langue_Maternelle-0055A4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🇫🇷_French-Native-0055A4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🇺🇸_English-C2_Advanced-DC143C?style=for-the-badge" />
 </div>
 
@@ -153,7 +150,7 @@ const samba = {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="tel:+221771169551">
-    <img src="https://img.shields.io/badge/Téléphone-+221_77_116_95_51-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+    <img src="https://img.shields.io/badge/Phone-+221_77_116_95_51-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
   </a>
   <a href="https://linkedin.com/in/sambadiop161" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -162,7 +159,7 @@ const samba = {
 
 ---
 
-## ✨ Citations Inspirantes du Jour
+## ✨ Daily Inspiration
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
@@ -170,10 +167,10 @@ const samba = {
 
 ---
 
-## ⭐ Projets en Vedette
+## ⭐ Featured Projects
 
 <div align="center">
-  <p><i>🚧 Bientôt disponible - Mes projets les plus impressionnants ! 🚧</i></p>
+  <p><i>🚧 Coming Soon - My most impressive projects! 🚧</i></p>
 </div>
 
 ---
@@ -181,5 +178,5 @@ const samba = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=99mass&color=0e75b6&style=for-the-badge&label=VISITEURS" alt="Compteur de visites" />
+  <img src="https://komarev.com/ghpvc/?username=99mass&color=0e75b6&style=for-the-badge&label=VISITORS" alt="Visitor count" />
 </div>
