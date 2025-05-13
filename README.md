@@ -20,10 +20,9 @@ const samba = {
     nom: "Samba Diop",
     poste: "Full-Stack Developer",
     lieu: "Dakar, Sénégal 🇸🇳",
-    entreprise: "Zone01 Dakar",
     specialties: {
         web: ["React", "Angular", "Vue.js", "Next.js"],
-        mobile: ["Flutter", "React Native"],
+        mobile: ["Flutter", "Kotlin"],
         backend: ["Java Spring Boot", "Node.js", "Go", "Rust"],
         database: ["MySQL", "MongoDB", "PostgreSQL"]
     },
@@ -34,7 +33,7 @@ const samba = {
 
 ### 🎯 Mon Expertise
 - 🖥️ **Développement Web Frontend** : React, Angular, Vue.js, Next.js
-- 📱 **Applications Mobile** : Flutter & React Native
+- 📱 **Applications Mobile** : Flutter & Kotlin
 - ⚙️ **Backend & APIs** : Java Spring Boot, Node.js, Express
 - 🗄️ **Bases de Données** : MySQL, MongoDB, PostgreSQL
 - 🛠️ **DevOps & Tools** : Docker, Git, GitHub, VS Code
