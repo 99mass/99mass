@@ -17,7 +17,8 @@ const samba = {
         web: ["React", "Angular", "Vue.js", "Next.js"],
         mobile: ["Flutter", "Kotlin"],
         backend: ["Java Spring Boot", "Node.js", "Go", "Rust"],
-        database: ["MySQL", "MongoDB", "PostgreSQL"]
+        database: ["MySQL", "MongoDB", "PostgreSQL"],
+        design: ["Figma"]
     },
     experience: "2023 - Present",
     motto: "Code with passion, build with purpose! 💻✨"
@@ -29,6 +30,7 @@ const samba = {
 - 📱 **Mobile Applications**: Flutter & Kotlin
 - ⚙️ **Backend & APIs**: Java Spring Boot, Node.js, Express
 - 🗄️ **Databases**: MySQL, MongoDB, PostgreSQL
+- 🎨 **UI/UX Design**: Figma
 - 🛠️ **DevOps & Tools**: Docker, Git, GitHub, VS Code
 
 ---
@@ -67,6 +69,7 @@ const samba = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -115,7 +118,8 @@ const samba = {
 ✅ Building mobile applications with Flutter<br>
 ✅ Creating REST APIs with Java Spring Boot and Node.js<br>
 ✅ Working with Agile methodology and teamwork<br>
-✅ Delivering complete and scalable solutions
+✅ Delivering complete and scalable solutions<br>
+✅ Creating UI/UX designs and prototypes with Figma
 </p>
 </td>
 </tr>
