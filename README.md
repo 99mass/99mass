@@ -1,9 +1,5 @@
 # <img src="https://raw.githubusercontent.com/nixin72/leet-code-discord-bot/master/assets/assets/wave.gif" width="30px"> Salut ! Je suis Samba Diop
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0D9EFF&center=true&vCenter=true&width=700&lines=👨‍💻+Ingénieur+Full-Stack;📱+Spécialiste+Web+%26+Mobile;🔥+Expert+React+%7C+Angular+%7C+Flutter;🚀+Architecte+Solutions+Modernes" alt="Typing SVG" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=99mass&color=0e75b6&style=flat"/>
   <img src="https://img.shields.io/github/followers/99mass?logo=github&style=flat&color=0e75b6&labelColor=1c1917"/>
