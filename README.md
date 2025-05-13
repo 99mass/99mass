@@ -182,13 +182,6 @@ const samba = {
 
 ---
 
-<div align="center">
-  <h2>🤝 Collaborons Ensemble !</h2>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0D9EFF&center=true&vCenter=true&width=600&lines=💡+Toujours+ouvert+aux+opportunités;🚀+Créons+quelque+chose+d'extraordinaire;📧+N'hésitez+pas+à+me+contacter!" alt="Typing SVG" />
-  </p>
-</div>
-
 ---
 
 <div align="center">
