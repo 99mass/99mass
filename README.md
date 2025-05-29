@@ -26,8 +26,8 @@ const samba = {
 ```
 
 ### 🎯 My Expertise
-- 🖥️ **Frontend Web Development**: React, Angular, Vue.js, Next.js
-- 📱 **Mobile Applications**: Flutter & Kotlin
+- 🖥️ **Frontend Web Development**: React, Angular, Next.js
+- 📱 **Mobile Applications**: Flutter
 - ⚙️ **Backend & APIs**: Java Spring Boot, Node.js, Express
 - 🗄️ **Databases**: MySQL, MongoDB, PostgreSQL
 - 🎨 **UI/UX Design**: Figma
