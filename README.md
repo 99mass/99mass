@@ -171,12 +171,13 @@ const samba = {
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ My Portfolio
 
 <div align="center">
-  <p><i>🚧 Coming Soon - My most impressive projects! 🚧</i></p>
+  <a href="https://my-portfolio-five-theta-bd59hhn58w.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚧-Portfolio%20Coming%20Soon-orange?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
-
 ---
 
 ---
